@@ -19,7 +19,7 @@
   - Local restic backups
   - Raw data storage
 
-- Exact mount points: 
+- Exact mount points:
   - `sda           8:0    0 931.5G  0 disk /mnt/nextcloud-data`
   - `nvme0n1p1 259:1    0   512M  0 part /boot/efi`
 
@@ -50,8 +50,8 @@
 - No inbound internet exposure
 - SSH restricted to a single non-root user
 
-> **IMPORTANT DESIGN NOTE:**  
-> This server is intentionally not exposed to the public internet.  
+> **IMPORTANT DESIGN NOTE:**
+> This server is intentionally not exposed to the public internet.
 > Any future remote access must preserve this constraint.
 
 ---
@@ -63,4 +63,4 @@
 3. Nightly backups via restic:
    - Local backup on NVME
    - Remote backup to Remote Backup Host
-4. Monthly restore verification job ensures backups are 
+4. Monthly restore verification job ensures backups are working

@@ -11,6 +11,7 @@
 
 ## Planned Improvements
 
+- [ ] Upgrade to Debian 13
 - [ ] Certificate rotation procedure
 
 ---
