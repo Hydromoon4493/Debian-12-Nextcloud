@@ -33,7 +33,7 @@
 - PHP with required Nextcloud modules
 - Application: Nextcloud (single-user instance)
 
-- Exact Nextcloud version - Nextcloud 32.0.3
+- Exact Nextcloud version - Nextcloud 32.0.5
   - Found via `sudo -u www-data php /var/www/nextcloud/occ version`
 - PHP version - PHP 8.2.29
   - Found via `php -v`
