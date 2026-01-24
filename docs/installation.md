@@ -31,8 +31,8 @@ nvme0n1
 
 ## Nextcloud Installation
 
-- Nextcloud installed manually (not via snap)
-  - From __________?
+- Nextcloud installed manually
+  - Downloaded and installed a tarball?
 - Data directory located on HDD
 - Single-user configuration
 - Path to `config.php`

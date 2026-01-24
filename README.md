@@ -24,10 +24,6 @@ This server is intended for **single-user use only**.
 - Ensure strong backups and recoverability
 - Keep the system understandable and rebuildable from documentation alone
 
-> **NOTE TO FUTURE ME:**  
-> If this server ever fails catastrophically, this repository should contain
-> everything needed to rebuild it from bare metal.
-
 ---
 
 ## Hardware Summary
