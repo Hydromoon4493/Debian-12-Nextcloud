@@ -35,5 +35,5 @@
 Monthly job restores a sample snapshot and verifies integrity.
 - Restores latest snapshot to a temp directory
 - Choses a single random file to restore
-- Anything fails an email is sent
-- Everything if removed at the end of the script
+- If anything fails, send an email
+- Remove temp restore dirs at the end of the script
